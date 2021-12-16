@@ -1,3 +1,3 @@
 <p align="center">
-![loading](https://github.githubassets.com/images/mona-loading-dark.gif)
+  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="animated" />
 </p>
