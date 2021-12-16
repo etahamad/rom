@@ -1,2 +1,3 @@
-# rom
-smooth a12 rom with awesome bb
+<p align="center">
+![loading](https://github.githubassets.com/images/mona-loading-dark.gif)
+</p>
